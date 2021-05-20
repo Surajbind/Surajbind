@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surajbind
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin And Firebase
-- 📫 Reach Me at surajbindpro@gmail.com
+- 📫 Reach Me at surajbind001@gmail.com
 
 <!---
 Surajbind/Surajbind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
